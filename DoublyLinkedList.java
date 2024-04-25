@@ -1,3 +1,5 @@
+// Conner Worrell
+
 class Node {
     // Node class to hold data and pointers to previous and next nodes
     int data;
